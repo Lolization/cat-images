@@ -1,0 +1,19 @@
+{
+  "name": "random-cat-image-bot",
+  "version": "1.0.0",
+  "description": "Sends random cat pictures through Telegram",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lolization/cat-images.git"
+  },
+  "author": "Lolization",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lolization/cat-images/issues"
+  },
+  "homepage": "https://github.com/Lolization/cat-images#readme"
+}
